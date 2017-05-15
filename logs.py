@@ -1,3 +1,5 @@
+#! /usr/bin/env
+
 # This program analyze logs recorded by a website.  The goal is to answer three questions:
 # 1) What are the most popular 3 articles viewed of all time?
 # 2) Who are the most popular article author of all time?
